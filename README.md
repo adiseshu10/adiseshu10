@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN Application
 - 💞 I’m looking to collaborate on MERN Developers
-- 📫 How to reach me kajuluriadiseshu@gmail.com
+- 📫 reach me kajuluriadiseshu@gmail.com
 
 <!---
 adiseshu10/adiseshu10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
