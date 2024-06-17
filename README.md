@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adiseshu10
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Application
-- 💞 I’m looking to collaborate on MERN Developers
+- 🌱 I’m currently learning MERN Technology
+- 💞 I’m looking to collaborate with MERN Developers
 - 📫 reach me kajuluriadiseshu@gmail.com
 
 <!---
