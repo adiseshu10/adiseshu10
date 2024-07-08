@@ -13,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiseshu10&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Adi Seshu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthamkurella&show_icons=true&theme=highcontrast&cache_seconds=1800&locale=en" alt="gowthamkurella" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiseshu10&show_icons=true&theme=highcontrast&cache_seconds=1800&locale=en" alt="Adi Seshu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamkurella&theme=highcontrast" alt="gowthamkurella" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiseshu10&theme=highcontrast" alt="Adi Seshu" /></p>
